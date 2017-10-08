@@ -30,3 +30,10 @@ nav ul li a:hover {
   border: 1px solid white;
   width: 100px;
 }
+
+
+@media (max-width: 680px) {
+  nav {
+    display: none;
+  }
+}

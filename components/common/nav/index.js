@@ -10,16 +10,16 @@ const Header = () => (
         <Link href="/" prefetch>HOME</Link>
       </li>
       <li>
-        <Link href="/about" prefetch>PRODUCT</Link>
+        <Link href="/" prefetch>PRODUCT</Link>
       </li>
       <li>
-        <Link href="/contactos" prefetch>ABOUT</Link>
+        <Link href="/" prefetch>ABOUT</Link>
       </li>
       <li>
-        <Link href="/contactos" prefetch>CONTACT</Link>
+        <Link href="/" prefetch>CONTACT</Link>
       </li>
       <li className="action">
-        <Link href="/contactos" prefetch>TRY</Link>
+        <Link href="/" prefetch>TRY</Link>
       </li>
     </ul>
   </nav>

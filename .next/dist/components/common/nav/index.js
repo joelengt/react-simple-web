@@ -51,7 +51,7 @@ var Header = function Header() {
       fileName: _jsxFileName,
       lineNumber: 12
     }
-  }, _react2.default.createElement(_link2.default, { href: '/about', prefetch: true, __source: {
+  }, _react2.default.createElement(_link2.default, { href: '/', prefetch: true, __source: {
       fileName: _jsxFileName,
       lineNumber: 13
     }
@@ -60,7 +60,7 @@ var Header = function Header() {
       fileName: _jsxFileName,
       lineNumber: 15
     }
-  }, _react2.default.createElement(_link2.default, { href: '/contactos', prefetch: true, __source: {
+  }, _react2.default.createElement(_link2.default, { href: '/', prefetch: true, __source: {
       fileName: _jsxFileName,
       lineNumber: 16
     }
@@ -69,7 +69,7 @@ var Header = function Header() {
       fileName: _jsxFileName,
       lineNumber: 18
     }
-  }, _react2.default.createElement(_link2.default, { href: '/contactos', prefetch: true, __source: {
+  }, _react2.default.createElement(_link2.default, { href: '/', prefetch: true, __source: {
       fileName: _jsxFileName,
       lineNumber: 19
     }
@@ -77,7 +77,7 @@ var Header = function Header() {
       fileName: _jsxFileName,
       lineNumber: 21
     }
-  }, _react2.default.createElement(_link2.default, { href: '/contactos', prefetch: true, __source: {
+  }, _react2.default.createElement(_link2.default, { href: '/', prefetch: true, __source: {
       fileName: _jsxFileName,
       lineNumber: 22
     }

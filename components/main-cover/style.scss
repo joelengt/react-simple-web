@@ -42,3 +42,19 @@
   display: inline-block;
   max-width: 70%;
 }
+
+
+
+@media (max-width: 680px) {
+  .FruitList__title {
+    display: block;
+    width: 100%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+
+  .FruitList__image {
+    display: block;
+    width: 100%;
+  }
+}

@@ -67,3 +67,13 @@
   border: 2px solid purple;
   color: purple;
 }
+
+@media (max-width: 680px) {
+  .ServiceReference__item {
+    display: block;
+    width: 100%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+
+}

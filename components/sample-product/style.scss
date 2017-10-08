@@ -71,3 +71,28 @@
   display: inline-block;
   max-width: 40%;
 }
+
+
+@media (max-width: 680px) {
+  .SampleProduct__title {
+    display: block;
+    width: 100%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+
+  .SampleProduct__title--button {
+    text-align: center;
+  }
+
+  .SampleProduct__title--button .action {
+    text-align: center;
+    /* width: 100%; */
+    margin: 1rem auto;
+  }
+
+  .SampleProduct__image {
+    display: block;
+    width: 100%;
+  }
+}
